@@ -1,0 +1,14 @@
+# PowerShell
+*.ps1xml
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Build / temp
+*.log
+*.zip
+
+# Editor
+.vscode/
+.idea/
