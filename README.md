@@ -1,6 +1,6 @@
 # Rapidapter - the rapid adapter adapter.  
 
-![Screenshot of Rapidapter](./image.png)
+![Screenshot of Rapidapter](./screencap.png)
 
 Rapidapter is a lightweight PowerShell-based Windows utility for rapidly switching IPv4 network adapter configurations via a clean GUI. 
 
